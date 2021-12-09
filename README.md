@@ -23,7 +23,7 @@
   <img align="center" alt="Fernanda-Xdea" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernanda-Xdea" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Fernanda-Xdea" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Fernanda-Xdea" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/ffc27c17196b2e7c241c85c00ec32eba.gif">
+  <img align="right" alt="Fernanda-Xdea" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/4eb8e4b1c3fea7509478a8aeebfcc6d2.gif">
 </div>
 
   <div> 
