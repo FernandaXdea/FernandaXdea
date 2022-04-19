@@ -7,6 +7,7 @@
 - 💬 likedin: https://www.linkedin.com/in/fernanda-xavier-2826001b6/
 - 📫 contato: nandaxdea@gmail.com
 - ⚡ Behance: https://www.behance.net/fernandaxdeabsb
+- 🏽‍🎓  Certificados: https://drive.google.com/drive/folders/1MjvHDvz8AqrpTECcF-12CSlzg6rqr_Qm
 <div align="center"> <i> <h2> Estou praticando essas linguagens </h2> </i></div>
  
 <div align="center">
