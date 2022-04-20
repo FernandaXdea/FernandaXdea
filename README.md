@@ -4,7 +4,7 @@
   <i> <h2> Olá, eu sou a Fernanda Xavier 👋 </h2> </i>
 - 🔭 Bacharel em Sistemas de Informação
 - 🌱 Estudando artes digitais, front-end, back-end e apicação mobie
-- 💬 likedin: https://www.linkedin.com/in/fernanda-xavier-2826001b6/
+- 💬 likedin: https://www.linkedin.com/in/fernandaxdea/
 - 📫 contato: nandaxdea@gmail.com
 - ⚡ Behance: https://www.behance.net/fernandaxdeabsb
 - 🏽‍🎓  Certificados: https://drive.google.com/drive/folders/1MjvHDvz8AqrpTECcF-12CSlzg6rqr_Qm
