@@ -33,7 +33,15 @@
   <img align="right" alt="Fernanda-Xdea" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/4eb8e4b1c3fea7509478a8aeebfcc6d2.gif">
 </div></div>
 <div align="center"> <i> <h2> Me conhaça um pouco 😄 </h2> </i></div>
- Bom, eu me chamo Fernanda Xavier, tenho 26 anos e sou brasiliense. Desde muito jovem me interesso pela área tecnológica, meu hobby era criar capas para o facebook, fazer logotipos e criar layouts (Html + Css) para o Blogger. Atualmente sou graduada em Sistemas de Informação (UNICEPLAC) e estou estudando a área de designer gráfico (SAGA); estou em busca de uma OPORTUNIDADE DE EMPREGO/ESTÁGIO. Uma curiosidade sobre mim é que eu fui a única mulher da minha turma da faculdade (embora isso não seja raro); talvez essa pouca visibilidade seja dada pelo reflexo de uma construção social. Por isso, eu sinto orgulho em afirmar que eu fui "umA entre muitOs" a se formar nessa área. Mas torço para que o empoderamento feminino na área de TI seja cada vez maior, e que mais meninas despertem o interesse nessa área.
+Olá! Meu nome é Fernanda Xavier, sou brasiliense, tenho 26 anos e sou formada em Sistemas de Informação pelo UNICEPLAC. Atualmente, estou me especializando em Marketing Digital e Inteligência de Dados, com foco total na área de análise de dados, que é onde me encontrei profissionalmente.
+
+Minha história com tecnologia começou cedo — quando criança, eu já brincava com HTML e CSS criando layouts para blogs. Com o tempo, essa curiosidade virou paixão e hoje sigo trilhando um caminho que une análise, design, dados e propósito. Tenho experiência profissional com relatórios de faturamento, atualização de dashboards e uso de ferramentas como Excel e PostgreSQL. Além disso, estou desenvolvendo projetos próprios, como o CineMatch, uma aplicação em Python com Flask que recomenda filmes personalizados com base no perfil do usuário.
+
+Sou movida por desafios e apaixonada por tudo que envolva entender dados e transformá-los em soluções úteis e acessíveis. Também lidero o desenvolvimento de um projeto acadêmico chamado Meu Bem-Estar, que une tecnologia, saúde preventiva e análise de dados para monitoramento da obesidade no Brasil.
+
+Me orgulho de ter sido a única mulher da minha turma a se formar em Sistemas de Informação — e levo esse marco como motivação para inspirar outras mulheres a ocuparem esse espaço. Meu objetivo hoje é me tornar uma profissional de dados com impacto real, aliando conhecimento técnico, sensibilidade social e curiosidade constante.
+
+Se quiser acompanhar essa jornada, seja bem-vindo(a) ao meu GitHub! 🚀
   <div> 
   <a href="https://www.youtube.com/channel/UCSSVGgs9B08G-MXRY1RPLyQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fernanda._.xdea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
