@@ -1,5 +1,5 @@
  
- <div> <img align="left" alt="Fernanda-Xdea" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/3c08641a8fdb4b574613170a5a00b5e6.gif"> </div>
+ <div> <img align="left" alt="Fernanda-Xdea" height="200" style="border-radius:50px;" src="https://images.vexels.com/media/users/3/294733/isolated/preview/aa404ba71462d76bbdcad5a20ac983fb-icone-fofo-de-planta-de-auto-estima.png"> </div>
  
   <i> <h2> Olá, eu sou a Fernanda Xavier 👋 </h2> </i>
 - 🔭 Bacharel em Sistemas de Informação
